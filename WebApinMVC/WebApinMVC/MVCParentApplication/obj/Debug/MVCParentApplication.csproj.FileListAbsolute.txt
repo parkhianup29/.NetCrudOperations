@@ -1,0 +1,113 @@
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\MVCParentApplication.dll.config
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\MVCParentApplication.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\MVCParentApplication.pdb
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Antlr3.Runtime.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\EntityFramework.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\EntityFramework.SqlServer.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Newtonsoft.Json.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Owin.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Net.Http.Formatting.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.Helpers.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.Mvc.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.Optimization.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.Razor.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.Razor.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\WebGrease.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Net.Http.Formatting.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.Helpers.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.Mvc.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.Optimization.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.Razor.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.Razor.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Antlr3.Runtime.pdb
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Newtonsoft.Json.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\EntityFramework.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\EntityFramework.SqlServer.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\obj\Debug\MVCParentApplication.dll
+D:\Anup.Parkhi\Assesment\WebApinMVC\MVCParentApplication\obj\Debug\MVCParentApplication.pdb
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\MVCParentApplication.dll.config
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\MVCParentApplication.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\MVCParentApplication.pdb
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Antlr3.Runtime.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\EntityFramework.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\EntityFramework.SqlServer.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Newtonsoft.Json.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Owin.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Net.Http.Formatting.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.Helpers.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.Mvc.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.Optimization.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.Razor.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.Deployment.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.Razor.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\WebGrease.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Net.Http.Formatting.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.Helpers.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.Mvc.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.Optimization.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.Razor.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.Deployment.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\System.Web.WebPages.Razor.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Antlr3.Runtime.pdb
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Newtonsoft.Json.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\EntityFramework.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\EntityFramework.SqlServer.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\obj\Debug\MVCParentApplication.csprojResolveAssemblyReference.cache
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\obj\Debug\MVCParentApplication.dll
+D:\Anup.Parkhi\.NET Assignment\WebApinMVC\MVCParentApplication\obj\Debug\MVCParentApplication.pdb
